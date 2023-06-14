@@ -13,8 +13,7 @@ header
     background: #13293d;
     color: #ffff;
 }
-nav
-{
+nav {
     display: flex;
     background-color: #d8a47f;
 }
